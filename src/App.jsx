@@ -10,7 +10,7 @@ function App() {
       <TopBar title="Biblioteca" claim="libreria di Frank" />
       <FooterComponent />
 
-      <h1 className="m-4 text-white">FANTASY</h1>
+      <h1 className="m-4 text-white">Leggi Con Frank</h1>
 
       <Books />
     </>
